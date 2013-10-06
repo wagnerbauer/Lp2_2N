@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Jogo {
 	public static final int  MAPA = 10;
 	public static int[]mapa;
-	public static final int  COMBUSTIVEL_INICIAL = 5000;
+	public static final int  COMBUSTIVEL_INICIAL = 7000;
 	public static int tentativas = 0;
 	public static Scanner scan = new Scanner(System.in);
 	
